@@ -1,0 +1,47 @@
+.body-index{
+    background-image: url('../../imagens/fundo.png');
+}
+
+.div-links-index{
+    background-color: #BCCEBC;
+    width: 880px;
+    padding: 25px 10px 25px 10px;
+}
+
+.div1{
+    background-color: white;
+    width: 880px;
+    padding: 10px;
+}
+
+.div-direitos{
+    width: 900px;
+}
+
+.fotocp{ /* Fotos da pág. Campanhas Publicitárias */
+    border-style: solid;
+    border-width: 10px;
+    border-color: #C0C0C0;
+}
+
+.link1{
+    font-family: 'Roboto', sans-serif;
+    color: #8258FA;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.text1{
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+}
+
+.text-direitos{
+    font-weight: bold;
+    text-align: center;
+}
+
+.title1{
+    font-family: 'Roboto', sans-serif;
+    color: #C5B358;
+}
