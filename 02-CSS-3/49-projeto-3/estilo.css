@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: #e6e6e6;
+}
+
+/*		CLASSES		*/
+
+.cabecalho{
+	height: 25vh;
+	width: 100vw;
+	background-color: #f0bb29;
+}
